@@ -1,6 +1,6 @@
 
 ### Hey 👋
-I'm Andrew, web developer since 2020
+I'm Andrew, web developer
 
 #### Technologies:
 - 👨‍💻 TypeScript, JavaScript
